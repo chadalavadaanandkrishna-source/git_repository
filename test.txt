@@ -1,3 +1,5 @@
 hello!
 edited
+Added a change
+Added a cool feature
 i have fixed the bug 
